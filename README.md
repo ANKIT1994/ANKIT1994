@@ -1,19 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Pandey;Senior+Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ankit-pandey-b1b785100/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ankitpandey994@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ANKIT1994&style=for-the-badge&color=3B82F6" alt="Profile Views" />
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 **Senior Software Engineer** with **6+ years** of hands-on experience designing, developing, and deploying full-stack applications and cloud-based solutions across banking, healthcare, HR, and enterprise domains.
@@ -87,7 +71,7 @@
 ## 💼 Professional Experience
 
 ```
-Nov 2025 – Present   │  Senior Software Developer    │  Sychnell Technocraft
+Nov 2025 – Feb 2026  │  Senior Software Developer    │  Sychnell Technocraft
 May 2025 – Oct 2025  │  System Analyst               │  Hexaware
 Oct 2022 – Feb 2025  │  Software Engineer             │  R1 RCM
 Aug 2021 – Nov 2022  │  Associate Consultant          │  Virtusa Consulting Services
@@ -145,28 +129,12 @@ Jul 2018 – Aug 2021  │  Software Developer            │  Expedien eSolutio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANKIT1994&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT1994&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANKIT1994&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🎓 Education
 
 **B.Tech in Computer Science** — Uttar Pradesh Technical University (UPTU), Gorakhpur, India *(2014 – 2018)*
 
 ---
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ankit-pandey-b1b785100/">
